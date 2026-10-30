@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/bunmei10-0802-utaawase",
  "yomi": "ぶんめいじゅうねんはちがつふつかうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（三題）",
+  "era": "文明10年（1478）8月2日",
+  "author": "判者 一条兼良",
+  "desc": "江月・紅葉・秋祝の三題で、題ごとに番を組んだ歌合。女房（御製）・甘露寺親長・実隆・季経らが詠み、左右の方人の難陳を記したうえで禅閣兼良が判を下す。"
+ },
  "editions": [
   {
    "pid": "1879502",
